@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-rsocket:2.2.2.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-rsocket/2.2.2.RELEASE/6f927bbcdec9a642d37103b83c878e69447a73be/spring-boot-starter-rsocket-2.2.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-rsocket/2.2.2.RELEASE/86a7454f249133ab34d5b28d5298ddc0bd4387f7/spring-boot-starter-rsocket-2.2.2.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
