@@ -1,0 +1,4 @@
+PR_Job_ID,PO_Number,PO_Date,PO_Amount,GL_Code,Load_Date/Time,Process_Date/Time,Load_Status,Process_Outcome,Error_Message,PO_Status
+MAP-1234,3425160,09/24/2020,10324.56,01.12.000.801.0000.213001,2020.09.25 03.00.00,,Loaded,Success,,Open
+MAP-2345,3425161,09/24/2020,1200,01.12.000.801.0000.213001,2020.09.25 04.00.00,,Processed,Success,,Finished
+MAP-3456,3425162,09/24/2020,964.23,01.12.000.801.0000.213001,2020.09.25 05.00.00,,Loaded,Failed,,Cancelled
